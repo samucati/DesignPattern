@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e7e26f2-ecc8-4de0-bbaa-c76a4a76fa0b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ChainOfResponsibility/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChainOfResponsibility/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChainOfResponsibility/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChainOfResponsibility/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strategy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/desconto/CalculadoraDeDescontos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/desconto/CalculadoraDeDescontos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/desconto/Desconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/desconto/Desconto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/desconto/DescontoParaOrcamentoComMaisDeCincoItens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/desconto/DescontoParaOrcamentoComMaisDeCincoItens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/desconto/DescontoParaOrcamentoComValorMaiorQueQuinhentos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/desconto/DescontoParaOrcamentoComValorMaiorQueQuinhentos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/desconto/SemDesconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/desconto/SemDesconto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/loja/desconto/CalculadoraDeDescontos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/loja/desconto/CalculadoraDeDescontos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/loja/desconto/Desconto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/loja/desconto/Desconto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/loja/desconto/DescontoParaOrcamentoComMaisDeCincoItens.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/loja/desconto/DescontoParaOrcamentoComMaisDeCincoItens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/loja/desconto/DescontoParaOrcamentoComValorMaiorQueQuinhentos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/loja/desconto/DescontoParaOrcamentoComValorMaiorQueQuinhentos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/loja/desconto/SemDesconto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/loja/desconto/SemDesconto.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29P6czWQ2z3WPYnNQXkh7lY08fu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Andeia Ferreira/Documents/GitHub/DesignPattern/TemplateMethod"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="TesteOrcamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.loja.TesteOrcamento" />
+      <module name="TemplateMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.loja.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteOrcamento" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e7e26f2-ecc8-4de0-bbaa-c76a4a76fa0b" name="Changes" comment="" />
+      <created>1653002459509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653002459509</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/alura/loja/TesteOrcamento.java</url>
+          <line>8</line>
+          <properties class="br.com.alura.loja.TesteOrcamento" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
