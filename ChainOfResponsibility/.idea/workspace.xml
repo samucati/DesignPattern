@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e7e26f2-ecc8-4de0-bbaa-c76a4a76fa0b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Strategy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TemplateMethod/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TemplateMethod/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TemplateMethod/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TemplateMethod/src/main/java/br/com/alura/loja/desconto/CalculadoraDeDescontos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/src/main/java/br/com/alura/loja/desconto/CalculadoraDeDescontos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TemplateMethod/src/main/java/br/com/alura/loja/desconto/Desconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/src/main/java/br/com/alura/loja/desconto/Desconto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TemplateMethod/src/main/java/br/com/alura/loja/desconto/DescontoParaOrcamentoComMaisDeCincoItens.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/src/main/java/br/com/alura/loja/desconto/DescontoParaOrcamentoComMaisDeCincoItens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TemplateMethod/src/main/java/br/com/alura/loja/desconto/DescontoParaOrcamentoComValorMaiorQueQuinhentos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/src/main/java/br/com/alura/loja/desconto/DescontoParaOrcamentoComValorMaiorQueQuinhentos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TemplateMethod/src/main/java/br/com/alura/loja/desconto/SemDesconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/src/main/java/br/com/alura/loja/desconto/SemDesconto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TemplateMethod/target/classes/br/com/alura/loja/desconto/CalculadoraDeDescontos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/target/classes/br/com/alura/loja/desconto/CalculadoraDeDescontos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TemplateMethod/target/classes/br/com/alura/loja/desconto/Desconto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/target/classes/br/com/alura/loja/desconto/Desconto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TemplateMethod/target/classes/br/com/alura/loja/desconto/DescontoParaOrcamentoComMaisDeCincoItens.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/target/classes/br/com/alura/loja/desconto/DescontoParaOrcamentoComMaisDeCincoItens.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TemplateMethod/target/classes/br/com/alura/loja/desconto/DescontoParaOrcamentoComValorMaiorQueQuinhentos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/target/classes/br/com/alura/loja/desconto/DescontoParaOrcamentoComValorMaiorQueQuinhentos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TemplateMethod/target/classes/br/com/alura/loja/desconto/SemDesconto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/target/classes/br/com/alura/loja/desconto/SemDesconto.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
