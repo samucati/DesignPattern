@@ -11,3 +11,4 @@ Aprendemos:
 Que é possível que um objeto se comporte de formas diferentes, dependendo do seu estado;
 Que, se o resultado de uma chamada de método depende do estado, podemos delegar esta ação para uma classe específica do estado atual:
 Aprendemos que a esta técnica foi dado o nome de State.
+
