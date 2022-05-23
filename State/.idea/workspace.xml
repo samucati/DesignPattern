@@ -7,12 +7,19 @@
     <list default="true" id="2e7e26f2-ecc8-4de0-bbaa-c76a4a76fa0b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../ChainOfResponsibility/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChainOfResponsibility/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Strategy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemplateMethod/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -28,23 +35,33 @@
     </option>
   </component>
   <component name="ProjectId" id="29P6czWQ2z3WPYnNQXkh7lY08fu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Andeia Ferreira/Documents/GitHub/DesignPattern/TemplateMethod"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Andeia Ferreira/Documents/GitHub/DesignPattern/State&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.alura.loja.orcamento" />
+      <recent name="br.com.alura.loja.orcamento.situacao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.alura.loja.orcamento.situacao" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="TesteOrcamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.loja.TesteOrcamento" />
-      <module name="TemplateMethod" />
+      <module name="State" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.alura.loja.*" />
@@ -86,14 +103,10 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/br/com/alura/loja/TesteOrcamento.java</url>
-          <line>8</line>
-          <properties class="br.com.alura.loja.TesteOrcamento" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/alura/loja/orcamento/Orcamento.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
