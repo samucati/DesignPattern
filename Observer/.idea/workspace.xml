@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e7e26f2-ecc8-4de0-bbaa-c76a4a76fa0b" name="Changes" comment="" />
+    <list default="true" id="2e7e26f2-ecc8-4de0-bbaa-c76a4a76fa0b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Command/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Command/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -47,20 +50,22 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.alura.loja.pedido" />
       <recent name="br.com.alura.loja.orcamento" />
       <recent name="br.com.alura.loja.orcamento.situacao" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.alura.loja.pedido.acao" />
       <recent name="br.com.alura.loja.orcamento.situacao" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="TestesPedidos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="br.com.alura.loja.TestesPedidos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.loja.TestesPedidos" />
-      <module name="Command" />
+      <module name="Observer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.loja.pedido.*" />
+          <option name="PATTERN" value="br.com.alura.loja.pedido.acao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,7 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestesPedidos" />
+        <item itemvalue="Application.br.com.alura.loja.TestesPedidos" />
       </list>
     </recent_temporary>
   </component>
